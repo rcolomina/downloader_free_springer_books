@@ -1,2 +1,3 @@
-# downloader_free_springer_books
-Download hundreds of free Springer books in PDF
+# Downloader of Free Springer Books
+
+At the time this repository is written Springer allows to download a really large list of Springer books.
