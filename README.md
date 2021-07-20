@@ -10,6 +10,3 @@ $ python3 download_springer_books.py
 
 The script connects to the Springer server downloading the items on the list.
 
-## List of Springer Books Hardcoded
-
-
