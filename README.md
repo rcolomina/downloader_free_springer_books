@@ -10,3 +10,4 @@ $ python3 download_springer_books.py
 
 The script connects to the Springer server downloading the items on the list.
 
+Additionally you can download from here a tar ball containing all the pdf's files that the script will download for you.
